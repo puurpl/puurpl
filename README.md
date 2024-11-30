@@ -1,4 +1,4 @@
-<img source="https://github.com/puurpl/puurpl/blob/d1ca7c7642df5ee685255edef1ab76a9caea9a2c/assets/darkdev.jpg" style="width:100%;position:fixed;display:block;top:0;">
+<img source="github.com/puurpl/puurpl/blob/d1ca7c7642df5ee685255edef1ab76a9caea9a2c/assets/darkdev.jpg">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi!+👋;+I'm+puurpl!;" />
 </h1>
