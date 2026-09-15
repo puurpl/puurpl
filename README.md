@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi!+👋;+I'm+puurpl!;" />
 </h1>
 
-<h3 align="center">A dedicated <s>computer toucher</s>AI orchestrator.</h3>
+<h3 align="center">A dedicated <s>computer toucher</s> AI orchestrator.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puurpl&label=Profile%20views&color=0e75b6&style=flat" alt="puurpl" /> </p>
 
